@@ -2,16 +2,11 @@
 ## Composer Installation
 ```
 {
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "thisismn/responsiveimage": "1.*"
     }
 }
 ```
-
-The module depends on JamesHeinrich/phpThumb which is currently in an unstable development branch.
-This issue has been [raised](https://github.com/JamesHeinrich/phpThumb/issues/4#issuecomment-47218252).
 
 ## Load the Module
 
