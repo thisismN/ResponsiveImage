@@ -1,0 +1,26 @@
+{
+    "mobile": {
+        "width": 200,
+        "height": 200,
+        "quality": 50,
+        "ratio": false
+    },
+    "tablet": {
+        "width": 400,
+        "height": 400,
+        "quality": 75,
+        "ratio": false
+    },
+    "desktop": {
+        "width": 400,
+        "height": 400,
+        "quality": 95,
+        "ratio": false
+    },
+    "default": {
+        "width": 400,
+        "height": 400,
+        "quality": 95,
+        "ratio": false
+    }
+}

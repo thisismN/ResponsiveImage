@@ -1,0 +1,19 @@
+<?php
+/**
+ * Responsive Image Module
+ * Local Configuration
+ * 
+ * @category    ResponsiveImage
+ * @author      Peter Hough <peterh@mnatwork.com>
+ */
+return array(
+    'config' => array(
+        'phpThumb' => array(
+            'config' => array(
+                // see vendor/JamesHeinrich/phpThumb/phpThumb.config.php.default for explainations
+                'disable_debug'    => false,
+                'imagemagick_path' => '/opt/local/bin/convert',
+            ),
+        ),
+    ),
+);

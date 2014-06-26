@@ -1,0 +1,46 @@
+{
+    "mobile": {
+        "width": 50,
+        "height": 50,
+        "quality": 50,
+        "artDirection": {
+            "x": 202,
+            "y": 109,
+            "width": 400,
+            "height": 300
+        }
+    },
+    "tablet": {
+        "width": 100,
+        "height": 100,
+        "quality": 75,
+        "artDirection": {
+            "x": 403,
+            "y": 223,
+            "width": 800,
+            "height": 600
+        }
+    },
+    "desktop": {
+        "width": 200,
+        "height": 200,
+        "quality": 95,
+        "artDirection": {
+            "x": 506,
+            "y": 300,
+            "width": 1000,
+            "height": 750
+        }
+    },
+    "default": {
+        "width": 200,
+        "height": 200,
+        "quality": 95,
+        "artDirection": {
+            "x": 506,
+            "y": 300,
+            "width": 1000,
+            "height": 750
+        }
+    }
+}

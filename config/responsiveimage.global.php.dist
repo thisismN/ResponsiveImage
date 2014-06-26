@@ -1,0 +1,29 @@
+<?php
+/**
+ * Responsive Image Module
+ * Global Configuration
+ * 
+ * @category    ResponsiveImage
+ * @author      Peter Hough <peterh@mnatwork.com>
+ */
+return array(
+    'config' => array(
+        'wurfl'    => array(
+            'wurflFile'   => __DIR__ . '/../../data/resource/wurfl.xml',
+            'persistence' => array(
+                'params' => array('dir' => __DIR__ . '/../../data/persistence'),
+            ),
+            'cache'       => array(
+                'params' => array('dir' => __DIR__ . '/../../data/cache'),
+            ),
+        ),
+        'recipe'   => array(
+            'dir' => __DIR__ . '/../../recipes',
+        ),
+        'phpThumb' => array(
+            'config' => array(
+                'cache_directory' => __DIR__ . '/../../data/cache',
+            )
+        ),
+    ),
+);

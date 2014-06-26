@@ -1,0 +1,24 @@
+{
+    "mobile": {
+        "width": 200,
+        "height": 300,
+        "quality": 50
+    },
+    "tablet": {
+        "width": 500,
+        "height": 700,
+        "quality": 75
+    },
+    "desktop": {
+        "width": 800,
+        "height": 1000,
+        "quality": 95,
+        "enlarging": true
+    },
+    "default": {
+        "width": 800,
+        "height": 1000,
+        "quality": 95,
+        "enlarging": true
+    }
+}

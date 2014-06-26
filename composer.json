@@ -1,0 +1,16 @@
+{
+    "name": "mn/responsiveimage",
+    "description": "Responsibly scales and serves images",
+    "require": {
+        "jamesheinrich/phpthumb": "dev-master",
+        "mimmi20/wurfl": "1.0.1"
+    },
+    "suggest": {
+        "mn/mncms": "The mN CMS"
+    },
+    "autoload": {
+        "psr-0": {
+            "ResponsiveImage\\": "src/"
+        }
+    }
+}
