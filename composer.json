@@ -2,6 +2,7 @@
     "name": "thisismn/responsiveimage",
     "description": "Zend Framework 2 module that responsibly scales and serves images",
     "license": "GPL-3.0",
+    "type": "module",
     "require": {
         "jamesheinrich/phpthumb": "dev-master",
         "mimmi20/wurfl": "1.0.1"
