@@ -2,6 +2,8 @@
 ## Composer Installation
 ```
 {
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "thisismn/responsiveimage": "dev-master"
     }
