@@ -3,7 +3,7 @@
 ```
 {
     "require": {
-        "thisismn/responsiveimage": "*"
+        "thisismn/responsiveimage": "dev-master"
     }
 }
 ```
