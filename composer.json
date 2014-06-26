@@ -4,7 +4,7 @@
     "license": "GPL-3.0",
     "type": "module",
     "require": {
-        "jamesheinrich/phpthumb": "v1.7.13",
+        "jamesheinrich/phpthumb": "1.7.13",
         "mimmi20/wurfl": "1.0.1"
     },
     "autoload": {
