@@ -19,8 +19,8 @@ config/application.config.php
 ```
 
 ## Configuration
-Copy `ResponsiveImage/config/responsiveimage.global.php.dist` to `./config/autoload/responsiveimage.global.php`.
-Copy `ResponsiveImage/config/responsiveimage.local.php.dist` to `./config/autoload/responsiveimage.local.php`. 
+Copy 'ResponsiveImage/config/responsiveimage.global.php.dist' to './config/autoload/responsiveimage.global.php'.  
+Copy 'ResponsiveImage/config/responsiveimage.local.php.dist' to './config/autoload/responsiveimage.local.php'. 
 
 ```
 cp vendor/thisismn/responsiveimage/config/responsiveimage.global.php.dist ./config/autoload/responsiveimage.global.php
@@ -28,10 +28,10 @@ cp vendor/thisismn/responsiveimage/config/responsiveimage.local.php.dist ./confi
 ```
 
 Change any settings in these files according to your needs.  
-Ensure that the cache and persistence directories are writable.
+Ensure that the cache and persistence directories are _writable_ and the resource directory exists (see Install WURFL).
 
 ## Recipes
-Copy `ResponsiveImage/recipes` to `./recipes`.
+Copy 'ResponsiveImage/recipes' to './recipes'.
 
 ```
 cp -r vendor/thisismn/responsiveimage/recipes ./
