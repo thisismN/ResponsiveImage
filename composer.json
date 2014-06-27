@@ -10,6 +10,9 @@
     "autoload": {
         "psr-0": {
             "ResponsiveImage\\": "src/"
-        }
+        },
+        "classmap": [
+            "./Module.php"
+        ]
     }
 }
